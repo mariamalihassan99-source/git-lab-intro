@@ -1,0 +1,5 @@
+1. What is the first command you awlays need to initialize a git repository?
+A: git init 
+
+2. You see your friend pushed code to their repository with the following commit message "done!". Is this a good commit message? why or why not?
+A:No, done  is not a good commit message because it does not explain what changes were made. A good commit message should be clear, descriptive, and help others understand the purpose of the commit when reviewing the project history.
